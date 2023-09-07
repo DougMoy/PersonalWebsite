@@ -3,13 +3,18 @@ import "./projectRightContainer.css";
 import PropTypes from "prop-types";
 
 const ProjectRight = ({ video, title, description }) => {
-  const isVideo = video.match(/\.(mp4|webm|ogg)$/i) !== null;
+  const isYouTubeLink = video.includes("youtube.com");
 
   return (
     <div className="project-container">
       <div className="video-container">
-        {isVideo ? (
-          <video src={video} controls />
+        {isYouTubeLink ? (
+          <iframe
+            src={video}
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         ) : (
           <img src={video} alt={title} />
         )}

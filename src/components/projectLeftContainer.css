@@ -41,6 +41,12 @@
     height: auto;
     display: block;
   }
+  .video-container-left iframe {
+    height: 45vh; 
+    width: 40vw;
+
+    display: block;
+  }
   .video-container-left img {
     width: 40vw;
     height: auto;
