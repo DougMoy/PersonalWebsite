@@ -12,7 +12,8 @@ const Footer = () => {
   const githubLink = "https://github.com/DougMoy";
   const linkedinLink = "https://www.linkedin.com/in/douglas-moy";
   const emailLink = "mailto:dougmoy@bu.edu";
-  const resumeLink = "/path/to/your/resume.pdf";
+  const resumeLink =
+    "https://drive.google.com/file/d/18wLPC7JQjZvMeq_Ch3FtLjuK0yh_33JL/view?usp=sharing";
 
   return (
     <footer className="footer">
