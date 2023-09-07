@@ -1,0 +1,52 @@
+
+.project-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 1.2vw;
+
+  }
+
+  .project-container-left,
+.project-container {
+  outline: none;
+}
+  
+  .video-container {
+    flex: 1;
+    margin-right: 20px;
+    width: 50%;
+    
+    
+  }
+  
+  .video-container video {
+    width: 40vw;
+    height: auto;
+    display: block;
+  }
+  .video-container img {
+    width: 40vw;
+    height: auto;
+    display: block;
+  }
+  
+  .info-container {
+    flex: 1; 
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .info-container h2 {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .info-container p {
+    margin: 0;
+  }
+  
