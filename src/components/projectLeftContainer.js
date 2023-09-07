@@ -16,7 +16,7 @@ const ProjectLeft = ({ video, title, description }) => {
             src={video}
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
+            allowFullScreen
           ></iframe>
         ) : (
           <img src={video} alt={title} />
