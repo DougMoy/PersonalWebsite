@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8398af94.css",
+    "main.js": "/static/js/main.03f9d317.js",
+    "static/js/787.a1ccce09.chunk.js": "/static/js/787.a1ccce09.chunk.js",
+    "static/media/PokerNowAnalyzerVideo.mp4": "/static/media/PokerNowAnalyzerVideo.fde37d022d676a47026e.mp4",
+    "static/media/EmbeddedSystemsProject.mp4": "/static/media/EmbeddedSystemsProject.c3208c224fbbc452b2de.mp4",
+    "static/media/PokerCalculator.mp4": "/static/media/PokerCalculator.88ff48fc71e5deb6e98e.mp4",
+    "static/media/Shakipiyo.PNG": "/static/media/Shakipiyo.b036c48fe47d48b60892.PNG",
+    "static/media/JJ.PNG": "/static/media/JJ.f957194024465de278e0.PNG",
+    "static/media/Squirtle.png": "/static/media/Squirtle.f11130c8a8d33db1c3bb.png",
+    "static/media/MRSHIBA.PNG": "/static/media/MRSHIBA.a26c28f926932b208d4a.PNG",
+    "static/media/SelfiePicture.jpg": "/static/media/SelfiePicture.11000c9b555ba68bc257.jpg",
+    "static/media/Keroppi.PNG": "/static/media/Keroppi.4acada375cc6e9bff2a7.PNG",
+    "static/media/Gudetama.PNG": "/static/media/Gudetama.db949c0e0032c39d5d10.PNG",
+    "static/media/nightsky.jpg": "/static/media/nightsky.a01c9e4e26b388e02c22.jpg",
+    "static/media/MovieMatch.png": "/static/media/MovieMatch.1a1d174be00cbdca1bed.png",
+    "index.html": "/index.html",
+    "main.8398af94.css.map": "/static/css/main.8398af94.css.map",
+    "main.03f9d317.js.map": "/static/js/main.03f9d317.js.map",
+    "787.a1ccce09.chunk.js.map": "/static/js/787.a1ccce09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8398af94.css",
+    "static/js/main.03f9d317.js"
+  ]
+}
