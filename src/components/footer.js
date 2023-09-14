@@ -13,7 +13,7 @@ const Footer = () => {
   const linkedinLink = "https://www.linkedin.com/in/douglas-moy";
   const emailLink = "mailto:dougmoy@bu.edu";
   const resumeLink =
-    "https://drive.google.com/file/d/18wLPC7JQjZvMeq_Ch3FtLjuK0yh_33JL/view?usp=sharing";
+    "https://drive.google.com/file/d/1PCO5f2wVgkiWsGMqXv-D-HrBkP7K4jj5/view?usp=sharing";
 
   return (
     <footer className="footer">
